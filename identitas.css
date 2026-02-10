@@ -1,0 +1,88 @@
+body {
+    font-family: "Gill Sans", "sans-serif",'Gill Sans', 'Gill Sans MT', Calibri , 'Trebuchet MS', sans-serif;
+    background-color: black;
+    padding: 
+    20px;
+    margin: 0;
+
+}
+h1 {
+    color:black  ; 
+    font-size: 20px;
+    text-align: center;
+    margin-bottom: 20px;
+    text-transform: uppercase;
+    border-bottom: 3px solid white ;
+    padding-bottom: 10px;
+
+}
+p {
+    color:white;
+    text-transform: capitalize;
+    border-color: white ;
+    padding: 10px;
+    border: 2px solid white ;
+    border-radius: 10px;
+    text-align: center;
+    margin: 0 auto 25px;
+    max-width: 500px;
+    font-style: italic;
+
+}
+
+.tulisan-miring {
+    background-color:darkblue;
+    text-decoration: underline;
+    font-style: italic;
+    font-size: 20px;
+    padding: 10px;
+    text-align: center;
+
+}
+.tulisan-besar {
+    background-color: red;
+    text-transform: uppercase;
+    text-align: center;
+    font-size: 25px;
+    padding: 10px;
+    color: white;   
+
+
+}
+.tulisan-tebal {
+    border: 2px solid white;
+    background-color: coral;
+    font-weight: bold;
+    font-size: 18px;
+    padding: 10px;
+    text-align: center;
+    color: white;
+
+}
+#huruf-besar {
+    background-color: black;
+    text-transform: uppercase;
+    font-size: 30px;
+    color: white;
+    text-align: center;
+    padding: 10px;
+
+}
+.table {
+    border: 2px solid white;
+    background-color: purple;
+    text-align: center;
+    font-size: 18px;
+    padding: 10px;
+    color: white;
+
+}
+.item {
+  display: block;
+  color: white;
+  font-style: italic;
+    font-size: 18px;
+    margin-bottom: 10px;
+    padding-left: 20px;
+    text-transform: capitalize;
+}
